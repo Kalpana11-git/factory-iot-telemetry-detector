@@ -1,3 +1,6 @@
+<img width="1049" height="1600" alt="WhatsApp Image 2026-10-08 at 12 23 14 AM" src="https://github.com/user-attachments/assets/b1e58af6-c4f4-42dd-ac1b-50aba0c038ce" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-08 000208" src="https://github.com/user-attachments/assets/9d2700d3-f3a2-4700-988b-73e34454834e" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-07 223713" src="https://github.com/user-attachments/assets/a95bb5f2-f19f-42d9-a5ab-2bc1d413d2fc" />
 # Smart Factory IoT Telemetry & Anomaly Detector 🏭📊
 
 An event-driven cloud telemetry and automated alert pipeline built on AWS to monitor industrial sensor metrics in real time and notify engineering teams during operational anomalies.
